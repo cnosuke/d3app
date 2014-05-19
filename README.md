@@ -2,6 +2,17 @@
 
 Simple grunt template for me.
 
+# How to use
+
+`%gem install sass` is needed before if it's not installed.
+
+```
+% npm install
+% grunt
+```
+
+For depelopment, as `% grunt live_dev` and connect `http://0.0.0.0:8000` by browsers, you can use live reload.
+
 # LICENSE
 
 Copyright (c) 2014, Shinnosuke TAKEDA
